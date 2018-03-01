@@ -1,0 +1,10 @@
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\bin\Debug\WindowsServerInstall.exe.config
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\bin\Debug\WindowsServerInstall.exe
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\bin\Debug\WindowsServerInstall.pdb
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.Form1.resources
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.Properties.Resources.resources
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.csproj.GenerateResource.Cache
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.csproj.CoreCompileInputs.cache
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.exe
+c:\users\赵天\documents\visual studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.pdb
+C:\Users\赵天\Documents\Visual Studio 2017\Projects\WindowsServerInstall\WindowsServerInstall\obj\Debug\WindowsServerInstall.csprojResolveAssemblyReference.cache

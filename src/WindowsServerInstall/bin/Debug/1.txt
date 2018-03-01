@@ -1,0 +1,5 @@
+Microsoft (R) .NET Framework 安装实用工具版本 4.7.2556.0
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+在初始化安装时发生异常:
+System.BadImageFormatException: 未能加载文件或程序集“file:///C:\Users\赵天\Desktop\音乐接口.docx”或它的某一个依赖项。该模块应包含一个程序集清单。。
